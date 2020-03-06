@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockOperation_F", "LockOperation_F\LockOperation_F.csproj", "{C7F7FE01-5D42-470C-93AC-5B1C7C8B360F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aumento", "Aumento\Aumento.csproj", "{DEF585C4-CF57-469B-9EB3-C7BDC92C7A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F7FE01-5D42-470C-93AC-5B1C7C8B360F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F7FE01-5D42-470C-93AC-5B1C7C8B360F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F7FE01-5D42-470C-93AC-5B1C7C8B360F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F7FE01-5D42-470C-93AC-5B1C7C8B360F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF585C4-CF57-469B-9EB3-C7BDC92C7A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF585C4-CF57-469B-9EB3-C7BDC92C7A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF585C4-CF57-469B-9EB3-C7BDC92C7A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF585C4-CF57-469B-9EB3-C7BDC92C7A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD77813-15DC-40AD-870F-F8D21A81EF6D}
+	EndGlobalSection
+EndGlobal
